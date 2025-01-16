@@ -52,14 +52,14 @@ Ein 2D-Abenteuer, bei dem der Spieler Hindernisse überwinden, Schlüssel sammel
 ## 🖼️ Screenshots
 
 ### Hauptbildschirm
-![Screenshot 1](2D-Game-1.png)
+![Screenshot 1](Screenshot/2D-Game-1.png)
 
 ### Gameplay
-![Screenshot 2](2D-Game-2.png)
+![Screenshot 2](Screenshot/2D-Game-2.png)
 
 ### Noch mehr Gameplay
-![Screenshot 3](2D-Game-3.png)
+![Screenshot 3](Screenshot/2D-Game-3.png)
 
 ### Schatz gefunden  🎉
-![Screenshot 4](2D-Game-4.png)
+![Screenshot 4](Screenshot/2D-Game-4.png)
 
