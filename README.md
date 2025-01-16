@@ -56,8 +56,11 @@ Ein spannendes 2D-Abenteuer, bei dem der Spieler Hindernisse überwinden, Schlü
 ### Gameplay
 ![Screenshot 2](2D-Game-2.png)
 
-### Schatz gefunden!
+### Noch mehr Gameplay
 ![Screenshot 3](2D-Game-3.png)
+
+### Schatz Gefunden
+![Screenshot 4](2D-Game-4.png)
 
 
 Viel Spaß beim Spielen! 🎉
