@@ -13,6 +13,7 @@ Ein 2D-Abenteuer, bei dem der Spieler Hindernisse überwinden, Schlüssel sammel
 ## 🛠️ Technologien
 
 - **Programmiersprache**: Java
+- **IDE: Eclipse
 - **Framework**: Java Swing für die Benutzeroberfläche
 - **Bildverarbeitung**: BufferedImage für das Laden und Anzeigen von Kacheln und Objekten
 - **Kollisionserkennung**: Implementiert für Spielerbewegung und Interaktion mit der Umgebung
