@@ -1,6 +1,6 @@
 # 2D-Treasure-Hunter
 
-Ein spannendes 2D-Abenteuer, bei dem der Spieler Hindernisse überwinden, Schlüssel sammeln und den Schatz finden muss.
+Ein 2D-Abenteuer, bei dem der Spieler Hindernisse überwinden, Schlüssel sammeln und den Schatz finden muss.
 
 ## 🎮 Features
 
