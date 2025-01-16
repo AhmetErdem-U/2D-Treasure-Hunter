@@ -60,8 +60,6 @@ Ein 2D-Abenteuer, bei dem der Spieler Hindernisse überwinden, Schlüssel sammel
 ### Noch mehr Gameplay
 ![Screenshot 3](2D-Game-3.png)
 
-### Schatz Gefunden
+### Schatz gefunden  🎉
 ![Screenshot 4](2D-Game-4.png)
 
-
-Viel Spaß beim Spielen! 🎉
